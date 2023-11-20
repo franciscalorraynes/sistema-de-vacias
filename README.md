@@ -10,7 +10,7 @@ Vaccination system using Java language. The system will allow the user to edit, 
     <td align="center">
       <a href="https://github.com/franciscalorraynes">
         <img src="https://avatars.githubusercontent.com/u/104534319?=4" 
-        width="100px;" alt="Foto de Francisca Lorrayne no GitHub"/><br>
+        width="120px;" alt="Foto de Francisca Lorrayne no GitHub"/><br>
         <sub>
           <b>Francisca Lorrayne</b>
          </sub>
