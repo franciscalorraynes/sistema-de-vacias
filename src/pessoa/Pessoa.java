@@ -1,6 +1,6 @@
 package pessoa;
 
-import vacina.CartaoVacina;
+ import vacina.CartaoVacina;
 
 public class Pessoa extends CartaoVacina{
     int idade;
