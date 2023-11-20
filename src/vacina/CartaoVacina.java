@@ -2,7 +2,7 @@ package vacina;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CartaoVacina {
+ public class CartaoVacina {
     private List<Vacinas> vacinasAplicadas;
 
     public CartaoVacina() {

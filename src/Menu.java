@@ -75,7 +75,7 @@ public class Menu {
                     // Lógica para buscar vacinas
                     break;
                 case 5:
-                    // Lógica para consultar quantidade de pessoas vacinadas com uma vacina
+                     // Lógica para consultar quantidade de pessoas vacinadas com uma vacina
                     break;
                 case 6:
                     // Lógica para editar vacinas

@@ -51,7 +51,7 @@ public class Vacinas {
         Vacinas.listaDeVacinas = listaDeVacinas;
     }
 
-    public boolean removeVacina(String nomeVacina) {
+     public boolean removeVacina(String nomeVacina) {
         Iterator<Vacinas> iterator = listaDeVacinas.iterator();
         while (iterator.hasNext()) {
             Vacinas vacinas = iterator.next();
